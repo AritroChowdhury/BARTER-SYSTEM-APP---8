@@ -1,6 +1,7 @@
 import React, { Component} from 'react';
 import { Header,Icon } from 'react-native-elements';
 import { View, Text, StyeSheet } from 'react-native';
+import Icon Component from Hamburger
 
 const MyHeader = props => {
   return (
